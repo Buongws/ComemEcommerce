@@ -3,7 +3,7 @@ export const datas = [
     id: "11120",
     review: "320",
     name: "Nước Tẩy Trang Rau Má Dành Cho Da Dầu Mụn",
-    price: 12000,
+    price: 630000,
     titleTag: "Làm sạch nhanh, dịu nhẹ, ngăn ngừa mụn",
 
     image: [
